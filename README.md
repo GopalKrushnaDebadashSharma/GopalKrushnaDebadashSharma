@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Krushna Debadash Sharma</h1>
 <h3 align="center">A passionate Data Analyst | AI & ML Enthusiast</h3>
 
-<p align="center">
-  <img src=" https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif/GopalKrushnaDebadashSharma/GopalKrushnaDebadashSharma/main/A_digital_illustration_in_the_introduction_section.png" width="60%" alt="Boy using laptop" />
-</p>
-
 ---
 
 ## 💫 About Me

@@ -1,68 +1,74 @@
-<h1 align="center">Hey there 👋</h1>
+## Hi there
 
-###
+<h1 align="center">Hi 👋, I'm Gopal Krushna Debadash Sharma</h1>
+<h3 align="center">A passionate Data Analyst | AI & ML Enthusiast</h3>
 
-<h2 align="center">Hi 👋, I'm Gopal Krushna Debadash Sharma<br>A passionate Data Analyst | AI & ML Enthusiast</h2>
+<p align="center">
+  <img src=" https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif/GopalKrushnaDebadashSharma/GopalKrushnaDebadashSharma/main/A_digital_illustration_in_the_introduction_section.png" width="60%" alt="Boy using laptop" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+## 💫 About Me
 
-###
+- 🔍 I’m currently working on *Pizza-Sales Project (SQL)*
+- 🤖 Learning *GenAI* to expand my AI/ML capabilities
+- 📊 Ask me about *Data Analytics, Visualization, Dashboards*
+- 📫 Reach me: *debadashsharma98@gmail.com*
+- 🌐 Know more: [LinkedIn Profile](https://www.linkedin.com/in/gksharma08/)
+- 📁 My Projects: [GitHub Dashboard](https://github.com/dashboard)
+- 🎯 Fun fact: I turn data into stories—Power BI dashboards and statistical imputation are my creative playgrounds.
 
-<div align="center">
-  <img height="300" src=" https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif"  />
-</div>
+---
 
-###
+## 🌐 Connect with Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gksharma08/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debadashsharma98@gmail.com)
 
-###
+---
 
-<p align="left">🔍 I’m currently working on Pizza-Sales Project (SQL)<br>🤖 Learning GenAI to expand my AI/ML capabilities<br>📊 Ask me about Data Analytics, Visualization, Dashboards<br>📫 Reach me: debadashsharma98@gmail.com<br>🌐 Know more: LinkedIn Profile<br>📁 My Projects: GitHub Dashboard<br>🎯 Fun fact: I turn data into stories—Power BI dashboards and statistical imputation are my creative playgrounds.</p>
+## 💻 Tech Stack
 
-###
+*Languages & Databases*
 
-<h3 align="left">🛠 Language and tools</h3>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-###
+*Libraries & Frameworks*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-###
+*Tools & Platforms*
 
-<h3 align="left">🔥   My Stats :</h3>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GopalKrushnaDebadashSharma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📊 GitHub Stats
 
-###
+![](https://github-readme-stats.vercel.app/api?username=GopalKrushnaDebadashSharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=GopalKrushnaDebadashSharma&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GopalKrushnaDebadashSharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GopalKrushnaDebadashSharma/GopalKrushnaDebadashSharma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GopalKrushnaDebadashSharma/GopalKrushnaDebadashSharma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GopalKrushnaDebadashSharma/GopalKrushnaDebadashSharma/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=GopalKrushnaDebadashSharma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=GopalKrushnaDebadashSharma&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

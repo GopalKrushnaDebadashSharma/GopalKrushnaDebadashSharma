@@ -1,13 +1,14 @@
-## Hi there
+## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Gopal Krushna Debadash Sharma</h1>
+<h1 align="center">I'm Gopal Krushna Debadash Sharma</h1>
 <h3 align="center">A passionate Data Analyst | AI & ML Enthusiast</h3>
 
 ---
 
 ## 💫 About Me
 
-- 🔍 I’m currently working on *Pizza-Sales Project (SQL)*
+- 🔍 I'm building a powerful Python-based market analysis and trading strategy backtesting tool in, integrating real-time data, technical indicators, and performance visualization to drive smarter investment
+     decisions.
 - 🤖 Learning *GenAI* to expand my AI/ML capabilities
 - 📊 Ask me about *Data Analytics, Visualization, Dashboards*
 - 📫 Reach me: *debadashsharma98@gmail.com*

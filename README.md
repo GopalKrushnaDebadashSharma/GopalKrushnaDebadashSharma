@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-- 🔍 I'm building a powerful Python-based market analysis and trading strategy backtesting tool in, integrating real-time data, technical indicators, and performance visualization to drive smarter investment
+- 🔍 I'm working on a project to building a powerful Python-based market analysis and trading strategy backtesting tool in, integrating real-time data, technical indicators, and performance visualization to drive smarter investment
      decisions.
 - 🤖 Learning *GenAI* to expand my AI/ML capabilities
 - 📊 Ask me about *Data Analytics, Visualization, Dashboards*
